@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 26 07:34:08 2020
-
-@author: sawsaxen
-"""
 
 #Importing required libraries
 import nltk
